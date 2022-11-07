@@ -1,0 +1,9 @@
+C:\Users\chien\OneDrive\Máy tính\KT_Lan2\Bai02\bin\Debug\Bai02.exe.config
+C:\Users\chien\OneDrive\Máy tính\KT_Lan2\Bai02\bin\Debug\Bai02.exe
+C:\Users\chien\OneDrive\Máy tính\KT_Lan2\Bai02\bin\Debug\Bai02.pdb
+C:\Users\chien\OneDrive\Máy tính\KT_Lan2\Bai02\obj\Debug\Bai02.csprojResolveAssemblyReference.cache
+C:\Users\chien\OneDrive\Máy tính\KT_Lan2\Bai02\obj\Debug\Bai02.Form1.resources
+C:\Users\chien\OneDrive\Máy tính\KT_Lan2\Bai02\obj\Debug\Bai02.Properties.Resources.resources
+C:\Users\chien\OneDrive\Máy tính\KT_Lan2\Bai02\obj\Debug\Bai02.csproj.GenerateResource.Cache
+C:\Users\chien\OneDrive\Máy tính\KT_Lan2\Bai02\obj\Debug\Bai02.exe
+C:\Users\chien\OneDrive\Máy tính\KT_Lan2\Bai02\obj\Debug\Bai02.pdb
