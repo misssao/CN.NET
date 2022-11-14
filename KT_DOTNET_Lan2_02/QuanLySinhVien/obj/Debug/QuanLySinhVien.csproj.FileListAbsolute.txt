@@ -1,0 +1,9 @@
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\QuanLySinhVien\obj\Debug\QuanLySinhVien.Form1.resources
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb

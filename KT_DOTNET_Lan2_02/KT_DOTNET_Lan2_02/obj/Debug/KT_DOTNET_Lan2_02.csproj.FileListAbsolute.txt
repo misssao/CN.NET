@@ -1,0 +1,9 @@
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\KT_DOTNET_Lan2_02\bin\Debug\KT_DOTNET_Lan2_02.exe.config
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\KT_DOTNET_Lan2_02\bin\Debug\KT_DOTNET_Lan2_02.exe
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\KT_DOTNET_Lan2_02\bin\Debug\KT_DOTNET_Lan2_02.pdb
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\KT_DOTNET_Lan2_02\obj\Debug\KT_DOTNET_Lan2_02.csprojResolveAssemblyReference.cache
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\KT_DOTNET_Lan2_02\obj\Debug\KT_DOTNET_Lan2_02.Form1.resources
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\KT_DOTNET_Lan2_02\obj\Debug\KT_DOTNET_Lan2_02.Properties.Resources.resources
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\KT_DOTNET_Lan2_02\obj\Debug\KT_DOTNET_Lan2_02.csproj.GenerateResource.Cache
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\KT_DOTNET_Lan2_02\obj\Debug\KT_DOTNET_Lan2_02.exe
+C:\Users\chien\OneDrive\Máy tính\KT_DOTNET_Lan2_02\KT_DOTNET_Lan2_02\obj\Debug\KT_DOTNET_Lan2_02.pdb
