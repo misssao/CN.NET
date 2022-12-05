@@ -1,0 +1,9 @@
+D:\Doc.net\Tuan10\Tuan10\bin\Debug\Tuan10.exe.config
+D:\Doc.net\Tuan10\Tuan10\bin\Debug\Tuan10.exe
+D:\Doc.net\Tuan10\Tuan10\bin\Debug\Tuan10.pdb
+D:\Doc.net\Tuan10\Tuan10\obj\Debug\Tuan10.csprojResolveAssemblyReference.cache
+D:\Doc.net\Tuan10\Tuan10\obj\Debug\Tuan10.Form1.resources
+D:\Doc.net\Tuan10\Tuan10\obj\Debug\Tuan10.Properties.Resources.resources
+D:\Doc.net\Tuan10\Tuan10\obj\Debug\Tuan10.csproj.GenerateResource.Cache
+D:\Doc.net\Tuan10\Tuan10\obj\Debug\Tuan10.exe
+D:\Doc.net\Tuan10\Tuan10\obj\Debug\Tuan10.pdb
